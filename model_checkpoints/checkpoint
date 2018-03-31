@@ -1,2 +1,2 @@
-model_checkpoint_path: "D:\\Developing\\deep-learninig-python\\model_checkpoints\\housing_model.ckpt"
-all_model_checkpoint_paths: "D:\\Developing\\deep-learninig-python\\model_checkpoints\\housing_model.ckpt"
+model_checkpoint_path: "mnist_final.ckpt"
+all_model_checkpoint_paths: "mnist_final.ckpt"
