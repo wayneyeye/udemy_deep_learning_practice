@@ -1,3 +1,4 @@
 tf-gpu/
 MNIST/
 tf-cpu/
+model_checkpoints/
