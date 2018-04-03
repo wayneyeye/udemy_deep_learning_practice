@@ -2,3 +2,4 @@ tf-gpu/
 MNIST/
 tf-cpu/
 model_checkpoints/
+sample_images/
