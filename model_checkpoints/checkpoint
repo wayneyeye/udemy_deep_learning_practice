@@ -1,2 +1,2 @@
-model_checkpoint_path: "mnist_auto_encoder_noise.ckpt"
-all_model_checkpoint_paths: "mnist_auto_encoder_noise.ckpt"
+model_checkpoint_path: "mnist_auto_encoder_sparsity.ckpt"
+all_model_checkpoint_paths: "mnist_auto_encoder_sparsity.ckpt"
